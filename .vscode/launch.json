@@ -5,6 +5,12 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "test",
+      "program": "flutter_app/lib/test.dart",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
       "name": "flutter",
       "program": "flutter_app/lib/main.dart",
       "request": "launch",
