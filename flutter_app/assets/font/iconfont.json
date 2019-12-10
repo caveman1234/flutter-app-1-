@@ -1,0 +1,44 @@
+{
+  "id": "1555637",
+  "name": "tax",
+  "font_family": "PersonalTax",
+  "css_prefix_text": "icon",
+  "description": "个人所得税APP",
+  "glyphs": [
+    {
+      "icon_id": "688132",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "974945",
+      "name": "心头好",
+      "font_class": "xintouhao",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "1311137",
+      "name": "个人中心",
+      "font_class": "icongerenzhongxin-01",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "3032991",
+      "name": "扫描",
+      "font_class": "scan",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "6507456",
+      "name": "首页",
+      "font_class": "shouye-copy",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
